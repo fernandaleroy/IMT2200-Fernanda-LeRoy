@@ -37,16 +37,4 @@ Los gráficos provistos por el profesor se mantuvieron, y añadí texto explicat
 1. numpy
 2. pandas
 3. geopandas
-4.matplotlib
-
-## 📂 Estructura
- Actividad01 # carpeta principal 
-│
-├── 📜 README.md
-├── 📓 IMT2200-Actividad01.ipynb
-├── 📄 Censo2017_Manzanas.csv   
-└─R13                      
-├── �imgmd                
-
-
-
+4. matplotlib
